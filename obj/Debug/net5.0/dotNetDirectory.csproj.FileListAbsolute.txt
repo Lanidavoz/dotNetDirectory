@@ -1,0 +1,16 @@
+/home/scooter/App.NET/dotNetDirectory/bin/Debug/net5.0/dotNetDirectory
+/home/scooter/App.NET/dotNetDirectory/bin/Debug/net5.0/dotNetDirectory.deps.json
+/home/scooter/App.NET/dotNetDirectory/bin/Debug/net5.0/dotNetDirectory.runtimeconfig.json
+/home/scooter/App.NET/dotNetDirectory/bin/Debug/net5.0/dotNetDirectory.runtimeconfig.dev.json
+/home/scooter/App.NET/dotNetDirectory/bin/Debug/net5.0/dotNetDirectory.dll
+/home/scooter/App.NET/dotNetDirectory/bin/Debug/net5.0/ref/dotNetDirectory.dll
+/home/scooter/App.NET/dotNetDirectory/bin/Debug/net5.0/dotNetDirectory.pdb
+/home/scooter/App.NET/dotNetDirectory/obj/Debug/net5.0/dotNetDirectory.csprojAssemblyReference.cache
+/home/scooter/App.NET/dotNetDirectory/obj/Debug/net5.0/dotNetDirectory.GeneratedMSBuildEditorConfig.editorconfig
+/home/scooter/App.NET/dotNetDirectory/obj/Debug/net5.0/dotNetDirectory.AssemblyInfoInputs.cache
+/home/scooter/App.NET/dotNetDirectory/obj/Debug/net5.0/dotNetDirectory.AssemblyInfo.cs
+/home/scooter/App.NET/dotNetDirectory/obj/Debug/net5.0/dotNetDirectory.csproj.CoreCompileInputs.cache
+/home/scooter/App.NET/dotNetDirectory/obj/Debug/net5.0/dotNetDirectory.dll
+/home/scooter/App.NET/dotNetDirectory/obj/Debug/net5.0/ref/dotNetDirectory.dll
+/home/scooter/App.NET/dotNetDirectory/obj/Debug/net5.0/dotNetDirectory.pdb
+/home/scooter/App.NET/dotNetDirectory/obj/Debug/net5.0/dotNetDirectory.genruntimeconfig.cache
